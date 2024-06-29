@@ -5,6 +5,10 @@
 It requires an `.env` file:
 - VITE_API_URL=`<VITE_API_URL>`
 
+## Install modules:
+
+### `npm install`
+
 ## How to Run the project? 
 Go to the root of the project and from terminal use this command:
 
